@@ -1,12 +1,12 @@
 # oss-audit--24BCE10354-
 
 1. Student Details :-
-Name: Asmi Sandeep Chakne
-Registration Number: 24BCE10354
+   * Name: Asmi Sandeep Chakne
+   * Registration Number: 24BCE10354
 
 2. Chosen Software :- 
-Software: Git
-Category: Version Control System
+  * Software: Git
+  * Category: Version Control System
 
 3. Project Description :- 
 This project is an Open Source Software (OSS) audit of Git. The report reviews the origin, philosophy, licensing, ecosystem, and comparison with proprietary software. Also, five shell scripts are implemented to show practical Linux and Bash scripting concepts.
